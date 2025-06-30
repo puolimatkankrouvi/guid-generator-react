@@ -1,6 +1,6 @@
 import * as React from "react";
 import { Table } from "react-bootstrap";
-import GuidTableRow from "./GuidTableRow.js";
+import GuidTableRow from "./GuidTableRow.jsx";
 import { useRecoilState } from "recoil";
 import { createGuids } from "./grud";
 import { guidCountSelector, guidsState } from "./store";
