@@ -3,9 +3,9 @@ import {
   RecoilRoot,
 } from "recoil";
 import { Container } from "react-bootstrap";
-import GuidTable from "./GuidTable.js";
-import GuidForm from "./GuidForm.js";
-import Title from "./Title.js";
+import GuidTable from "./GuidTable.jsx";
+import GuidForm from "./GuidForm.jsx";
+import Title from "./Title.jsx";
 import "./App.css";
 
 function App() {
