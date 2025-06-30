@@ -3,12 +3,12 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "react": "18.3.1",
-    "react-bootstrap": "2.10.4",
-    "react-dom": "18.3.1",
+    "react": "19.1.0",
+    "react-bootstrap": "2.10.10",
+    "react-dom": "19.1.0",
     "react-scripts": "5.0.1",
     "recoil": "0.7.7",
-    "uuid": "10.0.0"
+    "uuid": "11.1.0"
   },
   "scripts": {
     "start": "react-scripts start",
