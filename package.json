@@ -8,7 +8,7 @@
     "react-dom": "18.3.1",
     "recoil": "0.7.7",
     "uuid": "11.1.0",
-    "vite": "7.0.6"
+    "vite": "7.1.3"
   },
   "scripts": {
     "dev": "vite dev",
@@ -34,6 +34,6 @@
   },
   "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610",
   "devDependencies": {
-    "@vitejs/plugin-react": "4.6.0"
+    "@vitejs/plugin-react": "5.0.2"
   }
 }
