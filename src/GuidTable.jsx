@@ -1,3 +1,4 @@
+import React from "react";
 import { Table } from "react-bootstrap";
 import GuidTableRow from "./GuidTableRow.jsx";
 import { useRecoilState } from "recoil";
