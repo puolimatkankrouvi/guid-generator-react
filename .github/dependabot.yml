@@ -1,0 +1,14 @@
+version: 2
+updates:
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "daily"
+    ignore:
+     - dependency-name: ["react", "react-dom", "@types/react"]
+       versions:
+         - ">=19.0.0"
+    groups:
+      frontend:
+        patterns:
+          - "*"
