@@ -5,7 +5,13 @@ updates:
     schedule:
       interval: "daily"
     ignore:
-     - dependency-name: ["react", "react-dom", "@types/react"]
+     - dependency-name: "react"
+       versions:
+         - ">=19.0.0"
+     - dependency-name: "react-dom"
+       versions:
+         - ">=19.0.0"
+     - dependency-name: "@types/react"
        versions:
          - ">=19.0.0"
     groups:
